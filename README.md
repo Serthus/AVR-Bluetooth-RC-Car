@@ -1,7 +1,7 @@
 # silnik_DC_samochod
 AVR-based remote-controlled car using Bluetooth, an OLED display, and an ultrasonic distance sensor.
 
-# AVR Bluetooth RC Car 🚗💨
+# AVR Bluetooth RC Car
 
 An autonomous and remote-controlled car project built on an AVR microcontroller. The vehicle can be controlled via Bluetooth and features environmental scanning using an ultrasonic sensor mounted on a servo motor. Real-time data, such as the distance to obstacles, is displayed on an onboard OLED screen.
 
