@@ -1,4 +1,4 @@
-# AVR Bluetooth RC Car 🚗💨
+# AVR Bluetooth RC Car
 
 ![Car Preview](https://github.com/user-attachments/assets/0875d0db-1e85-42e4-a2f8-9a2f1cba3b80)
 
