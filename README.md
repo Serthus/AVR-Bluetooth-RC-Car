@@ -1,8 +1,8 @@
 # silnik_DC_samochod
 AVR-based remote-controlled car using Bluetooth, an OLED display, and an ultrasonic distance sensor.
 
-https://github.com/user-attachments/assets/dacb9a21-818a-4619-bdd7-0e1808a6a2b7
-https://github.com/user-attachments/assets/0740e938-277a-4c9e-b9f1-82425e48a3b2
+https://drive.google.com/file/d/1imyjXtySzG7IEu7ZLUgXDeHx-lYytnAa/view?usp=sharing
+https://drive.google.com/file/d/1qy2Mbw8LA4zGydc3bXe6Jg8ZI4z9pSgT/view?usp=sharing
 
 ![IMG_20260329_191812](https://github.com/user-attachments/assets/0875d0db-1e85-42e4-a2f8-9a2f1cba3b80)
 ![IMG_20260329_191802](https://github.com/user-attachments/assets/ef3c2fba-9013-46dd-9daa-9a610da920f0)
