@@ -1,0 +1,14 @@
+Debug/
+Release/
+*.atsuo
+*.componentinfo.xml
+*.lss
+*.map
+*.eep
+*.elf
+*.hex
+*.srec
+*.bin
+*.o
+*.d
+*.a
