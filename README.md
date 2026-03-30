@@ -5,8 +5,6 @@ AVR-based remote-controlled car using Bluetooth, an OLED display, and an ultraso
 
 An autonomous and remote-controlled car project built on an AVR microcontroller. The vehicle can be controlled via Bluetooth and features environmental scanning using an ultrasonic sensor mounted on a servo motor. Real-time data, such as the distance to obstacles, is displayed on an onboard OLED screen.
 
-[🎬 Click here to see the robot in action! (Video on Google Drive)](https://drive.google.com/file/d/15KOM7j4EiRvO_ApQ7Brzxg079hIE_UL-/view)
-
 ## 🛠️ Key Features & Hardware
 * **Microcontroller:** AVR family (programmed in pure C)
 * **Drive System:** DC motors configured with a motor driver
