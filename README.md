@@ -5,8 +5,8 @@
 An autonomous and remote-controlled car project built on an AVR microcontroller. The vehicle can be controlled via Bluetooth and features environmental scanning using an ultrasonic sensor mounted on a servo motor. Real-time data, such as the distance to obstacles, is displayed on an onboard OLED screen.
 
 ### 🎬 Project Videos
-* [Watch the robot in action - Video 1 (Google Drive)](https://drive.google.com/file/d/1qy2Mbw8LA4zGydc3bXe6Jg8ZI4z9pSgT/view?usp=sharing)
-* [Watch the robot in action - Video 2 (Google Drive)](https://drive.google.com/file/d/1imyjXtySzG7IEu7ZLUgXDeHx-lYytnAa/view?usp=sharing)
+* [Video 1 (Google Drive)](https://drive.google.com/file/d/1qy2Mbw8LA4zGydc3bXe6Jg8ZI4z9pSgT/view?usp=sharing)
+* [Video 2 (Google Drive)](https://drive.google.com/file/d/1imyjXtySzG7IEu7ZLUgXDeHx-lYytnAa/view?usp=sharing)
 
 ## 🛠️ Key Features & Hardware
 * **Microcontroller:** AVR family (programmed in pure C)
