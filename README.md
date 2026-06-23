@@ -21,9 +21,9 @@ An autonomous and remote-controlled car project built on an AVR microcontroller.
 * **Structure:** Custom libraries for hardware peripherals (SPI, UART, Timers, OLED, Sensors)
 
 ## Hardware Setup / Gallery
-![Hardware Details](https://github.com/user-attachments/assets/ef3c2fba-9013-46dd-9daa-9a610da920f0)
-![Hardware Details](https://github.com/user-attachments/assets/7f799017-3698-4648-968d-99949ac42cad)
-![Hardware Details](https://github.com/user-attachments/assets/cfd4e249-74aa-453f-9f35-108d6338c506)
+![Hardware Details](https://github.com/user-attachments/assets/89896b8c-7cfc-4de8-aae4-0de68716ff35)
+![Hardware Details](https://github.com/user-attachments/assets/8e805add-fab8-4978-8653-f2431b09f99d)
+![Hardware Details](https://github.com/user-attachments/assets/b46615ba-02f9-4d01-a0ad-2cea0865527a)
 ![Hardware Details](https://github.com/user-attachments/assets/fbcbeef4-f4e3-4a3a-81fd-a374ec21f3bc)
 
 ## License
