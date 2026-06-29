@@ -1,4 +1,3 @@
-<img width="1123" height="794" alt="Samochod" src="https://github.com/user-attachments/assets/fc2898c0-b8ca-4c22-a2c4-1e9be24584e2" />
 # AVR Bluetooth RC Car
 
 ![Car Preview](https://github.com/user-attachments/assets/b46615ba-02f9-4d01-a0ad-2cea0865527a)
