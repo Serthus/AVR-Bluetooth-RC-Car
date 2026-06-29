@@ -10,7 +10,7 @@ An autonomous and remote-controlled car project built on an AVR microcontroller.
 
 ## Circuit Schematic
 ![Circuit Schematic](https://github.com/user-attachments/assets/2553a7db-6f95-4eca-ae9d-7280da7756c7)
-![Circuit Schematic](https://github.com/user-attachments/assets/00392026-5b93-47d6-abf6-1e2f2a83329a)
+![Circuit Schematic](https://github.com/user-attachments/assets/603e04f4-86cb-4a18-a1d7-20bcd4da23c6)
 
 ## Key Features & Hardware
 * **Microcontroller:** AVR family (programmed in pure C)
