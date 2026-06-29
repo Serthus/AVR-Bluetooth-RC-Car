@@ -8,6 +8,9 @@ An autonomous and remote-controlled car project built on an AVR microcontroller.
 * [Video 1 (Google Drive)](https://drive.google.com/file/d/1qy2Mbw8LA4zGydc3bXe6Jg8ZI4z9pSgT/view?usp=sharing)
 * [Video 2 (Google Drive)](https://drive.google.com/file/d/1imyjXtySzG7IEu7ZLUgXDeHx-lYytnAa/view?usp=sharing)
 
+## Circuit Schematic
+https://github.com/user-attachments/assets/2553a7db-6f95-4eca-ae9d-7280da7756c7
+
 ## Key Features & Hardware
 * **Microcontroller:** AVR family (programmed in pure C)
 * **Drive System:** DC motors configured with a motor driver
