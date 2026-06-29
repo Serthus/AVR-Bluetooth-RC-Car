@@ -1,3 +1,4 @@
+![Uploading Samochod.svg…]()
 # AVR Bluetooth RC Car
 
 ![Car Preview](https://github.com/user-attachments/assets/b46615ba-02f9-4d01-a0ad-2cea0865527a)
@@ -12,7 +13,7 @@ An autonomous and remote-controlled car project built on an AVR microcontroller.
 ![Circuit Schematic](https://github.com/user-attachments/assets/2553a7db-6f95-4eca-ae9d-7280da7756c7)
 
 ![Uploading Samochod.svg…]()
-
+![Uploading Samochod.svg…]()
 
 ## Key Features & Hardware
 * **Microcontroller:** AVR family (programmed in pure C)
